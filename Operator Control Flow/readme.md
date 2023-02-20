@@ -52,5 +52,5 @@
 ### 4. when the program for(let i = 1, i>20; i+=7;){
     console.log(i);
 }
-### The result == 1,8, 15.
+### The result = 1,8, 15.
 
